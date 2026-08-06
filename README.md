@@ -1,16 +1,19 @@
-## Hi there 👋
+### Harold Tien
 
-<!--
-**HaroldTien/HaroldTien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Systems Engineering student - the seam where software meets hardware.
+Right now I'm building an AI flight control system for a quadcopter, on my own time.
 
-Here are some ideas to get you started:
+**Now** - AI flight control: state estimation, control loops, and getting a quad to hold position without a human in the loop.  
+**Studying** - Computer Systems Engineering: embedded software, computer architecture and real-time systems. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Selected work
+
+- **[Quad_Project](https://github.com/HaroldTien/Quad_Project)** — auto-positioning quadcopter: flight control, sensor fusion, autonomous hold.
+
+---
+
+#### Elsewhere
+
+[Email](mailto:haroldtien.tw@gmail.com) · [LinkedIn](https://linkedin.com/in/) · [Site](https://haroldtien.web.app/)
