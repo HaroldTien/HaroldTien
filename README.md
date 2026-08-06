@@ -1,16 +1,16 @@
-### Harold Tien
+### Harold Tien 
 
-Computer Systems Engineering student - the seam where software meets hardware.
+Third-year Computer Systems Engineering student at the University of Auckland - the seam where software meets hardware.
 Right now I'm building an AI flight control system for a quadcopter, on my own time.
 
 **Now** - AI flight control: state estimation, control loops, and getting a quad to hold position without a human in the loop.  
-**Studying** - Computer Systems Engineering: embedded software, computer architecture and real-time systems. 
+**Studying** - Computer Systems Engineering: embedded software, computer architecture, and real-time systems. 
 
 ---
 
 #### Selected work
 
-- **[Quad_Project](https://github.com/HaroldTien/Quad_Project)** — auto-positioning quadcopter: flight control, sensor fusion, autonomous hold.
+- **[Quad_Project](https://github.com/HaroldTien/Quad_Project)** - auto-positioning quadcopter: flight control, sensor fusion, autonomous hold.
 
 ---
 
