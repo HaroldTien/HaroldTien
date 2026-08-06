@@ -3,8 +3,8 @@
 <!-- One or two sentences. What you build, and why. Replace this. -->
 Engineer. Currently building things that fly.
 
-**Now** — <!-- current focus -->
-**Learning** — <!-- what you're digging into -->
+**Now** — <!-- current focus -->  
+**Learning** — <!-- what you're digging into -->  
 **Ask me about** — <!-- your strong suit -->
 
 ---
