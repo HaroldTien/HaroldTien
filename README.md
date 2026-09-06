@@ -17,7 +17,7 @@ Right now, I'm building an AI flight control system on my own time.
 
 #### Selected work
 
-- **[Quad_Project](https://github.com/HaroldTien/Quad_Project)** - auto-positioning quadcopter: flight control, sensor fusion, autonomous hold.
+- **[Quad_Project](https://github.com/HaroldTien/Quads_Project)** - auto-positioning quadcopter: flight control, sensor fusion, autonomous hold.
 
 ---
 
